@@ -1,3 +1,0 @@
-C:/Users/aken1/Desktop/c++/ChansOlgorithm/build/CMakeFiles/BezierCurve.dir
-C:/Users/aken1/Desktop/c++/ChansOlgorithm/build/CMakeFiles/edit_cache.dir
-C:/Users/aken1/Desktop/c++/ChansOlgorithm/build/CMakeFiles/rebuild_cache.dir

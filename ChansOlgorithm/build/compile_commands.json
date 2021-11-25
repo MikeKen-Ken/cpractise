@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/aken1/Desktop/c++/ChansOlgorithm/build",
-  "command": "D:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/BezierCurve.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BezierCurve.dir\\main.cpp.obj -c C:\\Users\\aken1\\Desktop\\c++\\ChansOlgorithm\\main.cpp",
-  "file": "C:/Users/aken1/Desktop/c++/ChansOlgorithm/main.cpp"
-}
-]
